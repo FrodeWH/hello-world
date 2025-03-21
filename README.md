@@ -7,3 +7,5 @@ Dette er første endring i filen.
 Ny linje men i branchen
 
 en ny linje med info
+
+readme-3 endring
